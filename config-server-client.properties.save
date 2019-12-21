@@ -1,1 +1,2 @@
-sg = Hello world
+msg = Hello world - this is from config server - Prodcution Environment
+myname=helloWorld default profile  prod
